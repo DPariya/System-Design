@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#431E4E",
+        "titleBar.activeBackground": "#5E296D",
+        "titleBar.activeForeground": "#FDFBFE"
+    },
+    "cSpell.words": [
+        "creational"
+    ]
+}
