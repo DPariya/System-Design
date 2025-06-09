@@ -1,20 +1,42 @@
-## Getting Started
+# System Design - Design Patterns and Principles Demo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This project is a comprehensive demo of **Design Patterns**, **Object-Oriented Programming (OOP)** concepts, **SOLID principles**, and other best practices in software design.
 
-## Folder Structure
+## Project Overview
 
-The workspace contains two folders by default, where:
+- Demonstrates core **creational**, **structural**, and **behavioral** design patterns.
+- Covers **SOLID** principles with practical examples.
+- Showcases **problem** and **solution** implementations side-by-side.
+- Uses Java language for clear, industry-standard coding practices.
+- Helps improve understanding of how to write maintainable, scalable, and reusable code.
+- Each pattern is organized by type and shows both the **problem** and the **solution**.
+- Allows easy comparison and learning from real coding examples.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## How to Use
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+1. Navigate to a specific design pattern folder.
+2. Study the `problem` code to understand the drawbacks or issues without design patterns.
+3. Explore the `solution` code to see how applying the design pattern solves these problems.
+4. Run `Main.java` files to see the behavior in action.
 
-## Dependency Management
+---
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Technologies Used
 
-# System-Design
+- Java 17+
+- Standard Java Collections and OOP features
+- No external dependencies
+
+---
+
+## Contributing
+
+Feel free to contribute new design patterns, principles, or improvements by opening a pull request.
+
+---
+
+## License
+
+MIT License © 2025 Dipti Pariya
